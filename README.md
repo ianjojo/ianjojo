@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Canada</h3>
 
 
-- :telescope: I’m currently working on [Tensorflow.js object detection](whatami.netlify.app)
+- :telescope: I’m currently working on [Tensorflow.js object detection](https://whatami.netlify.app)
 
 - :seedling: Fascinated by interactivity, generative music and the weirder side of the web.
 
