@@ -11,9 +11,6 @@
 - 👨‍💻 All of my projects are available at [ianjojo.dev](ianjojo.dev)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ianjojo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianjojo/)
-# 💫 About Me:
-🔭 I’m currently working on Tensorflow.js object detection<br><br>🌱 Fascinated by interactivity, generative music and the weirder side of the web.<br><br>⚡ In my free time, I write and produce various types of electronic and pop music.<br><br>👨‍💻 All of my projects are available at ianjojo.netlify.app<br><br>📫How to reach me: Linkedin Badge
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianjojo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ianjojo5) 
