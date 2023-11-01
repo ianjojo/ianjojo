@@ -8,7 +8,7 @@
 
 - :zap: In my free time, I write and produce various types of electronic and pop music.
 
-- 👨‍💻 All of my projects are available at [ianjojo.dev](ianjojo.dev)
+- 👨‍💻 All of my projects are available at [ianjojo.dev](https://ianjojo.dev)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ianjojo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ianjojo/)
 
